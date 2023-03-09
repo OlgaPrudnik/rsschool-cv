@@ -18,8 +18,6 @@ I am able to handle multiple tasks on a daily basis. I use a creative approach t
 - HTML
 - CSS/SCSS
 - JavaScript/TypeScript
-- React
-- Redux
 - Git
 - Bootstrap
 
@@ -54,4 +52,4 @@ function nicknameGenerator(name){
 * Video courses on YouTube channel Vladilen Minin
 
 ## Level of English:
-English A2 in progress
+English B1 in progress
